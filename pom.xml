@@ -16,9 +16,9 @@
     <description>A simple Spring Boot 2.x app to send hello world message to a user</description>
 	
 	<scm>
-		  <connection>scm:git:git@github.com:trnagarajan/devops.git</connection>
-		  <developerConnection>scm:git:git@github.com:trnagarajan/devops.git</developerConnection>
-		  <url>git@github.com:trnagarajan/devops.git</url>
+		  <connection>scm:git:git@github.com:trnagarajan/spring-boot-hello-world-v1.git</connection>
+		  <developerConnection>scm:git:git@github.com:trnagarajan/spring-boot-hello-world-v1.git</developerConnection>
+		  <url>git@github.com:trnagarajan/spring-boot-hello-world-v1.git</url>
 		  <tag>spring-boot-2-hello-world-1.0.2</tag>
 	</scm>
 
