@@ -10,7 +10,7 @@
 
     <groupId>com.example</groupId>
     <artifactId>spring-boot-2-hello-world</artifactId>
-    <version>1.0.7-SNAPSHOT</version>
+    <version>1.0.8-SNAPSHOT</version>
 
     <name>spring-boot-2-hello-world</name>
     <description>A simple Spring Boot 2.x app to send hello world message to a user</description>
@@ -19,7 +19,7 @@
 		  <connection>scm:git:git@github.com:trnagarajan/spring-boot-hello-world-v1.git</connection>
 		  <developerConnection>scm:git:git@github.com:trnagarajan/spring-boot-hello-world-v1.git</developerConnection>
 		  <url>git@github.com:trnagarajan/spring-boot-hello-world-v1.git</url>
-		  <tag>v1.0.7</tag>
+		  <tag>v1.0.8</tag>
 	</scm>
 
     <properties>
